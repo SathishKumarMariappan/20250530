@@ -10,3 +10,7 @@ git diff || to see the diferences in the local
 
 git add .
 
+git commit -m "some message"
+
+git push 
+
