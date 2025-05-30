@@ -14,3 +14,7 @@ git commit -m "some message"
 
 git push 
 
+
+git fetch 
+
+git checkout demo(some branch name )
